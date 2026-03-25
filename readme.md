@@ -15,30 +15,28 @@
 
 <br />
 
+---
+
 ## 🛠️ Technical Expertise
 
 ### 🎨 Frontend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap&theme=light&perline=7" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🧠 Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&theme=light&perline=7" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
 </p>
 
 ### ☁️ Cloud Computing (AWS)
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws&theme=light&perline=7" />
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### 🧰 Workflow & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,figma&theme=light&perline=7" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,linux,figma" />
 </p>
 
 ---
@@ -46,16 +44,19 @@
 ## 📊 Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calvintakasi&show_icons=true&theme=minimal&hide_border=true&hide=issues,prs" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calvintakasi&layout=compact&theme=minimal&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirvishwas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirvishwas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" height="150" />
 </div>
 
 <br />
 
+---
+
+## 📬 Contact
+
 <div align="center">
-  <p>
-    <a href="mailto:calvintakasi@outlook.com">
-      <img src="https://img.shields.io/badge/Email-calvintakasi%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <a href="mailto:calvintakasi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-calvintakasi%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
 </div>
