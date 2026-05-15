@@ -73,7 +73,7 @@
 ## 📬 Contact
 
 <div align="center">
-  <a href="mailto:calvintakasi@outlook.com">
+  <a href="mailto:amirvishwas25@gmail.com">
     <img src="https://img.shields.io/badge/Email-calvintakasi%40outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
   &nbsp;
