@@ -7,8 +7,8 @@
   <i>Building scalable web applications with a focus on clean UI/UX and performance.</i>
 </p>
 
-<a href="ionui.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/CURRENTLY_WORKING_ON-ION_UI-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Ion UI" />
+<a href="https://ionui.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/CURRENTLY_WORKING_ON-ION_UI-7761ED?style=for-the-badge&logo=vercel&logoColor=white" alt="Ion UI" />
 </a>
 
 </div>
